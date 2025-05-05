@@ -60,6 +60,11 @@ CREATE USER 'pickbazar_user'@'192.168.68.100' IDENTIFIED WITH mysql_native_passw
 
 ``` show tables;```
 
+## import database
+```
+source path/for/database.sql 
+```
+
 ## ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
 ```
 ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '';
