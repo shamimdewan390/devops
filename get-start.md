@@ -33,6 +33,10 @@ multipass start foo
 ```
 multipass delete bar
 ```
+## file transfer local pc to multipass
+```
+multipass transfer ~/Downloads/users.sql foo:/home/ubuntu/users.sql
+```
 
 
 ```
