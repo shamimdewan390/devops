@@ -20,7 +20,7 @@ FLUSH PRIVILEGES;
 ```
 
 ## Explain "CREATE USER 'localhost_user'@'%' IDENTIFIED WITH mysql_native_password BY '12345678';"
-🔸 CREATE USER
+🔸 ```CREATE USER```
 This tells MySQL to create a new user in the database.
 
 🔸 'pickbazar_user'@'%'
