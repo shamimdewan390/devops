@@ -54,6 +54,11 @@ CREATE USER 'pickbazar_user'@'192.168.68.100' IDENTIFIED WITH mysql_native_passw
 ## database list
 
 ```show databases;```
+## database user and host list
+```
+ SELECT user, host FROM mysql.user;
+```
+
 ## database e dokar jonno
 ```use database_name```
 ## database table list
