@@ -4,7 +4,7 @@
 https://medium.com/@arshakilmahmud/how-i-automated-hosting-my-gtm-server-using-a-simple-bash-script-809f9ff9e0eb
 ```
 
-## Server - Tag ID->
+## Server - Tag ID-> (login google rag manager -> create accout (select server))
 aWQ9R1RNLVRHNkpUNTZCJmVudj0xJmF1dGg9WDJXZEw0YmxZbm9IdHBnX3RPTmtIQQ==
 
 
