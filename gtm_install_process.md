@@ -8,7 +8,7 @@ https://medium.com/@arshakilmahmud/how-i-automated-hosting-my-gtm-server-using-a
 aWQ9R1RNLVRHNkpUNTZCJmVudj0xJmF1dGg9WDJXZEw0YmxZbm9IdHBnX3RPTmtIQQ==
 
 
-# Dcoker engin install
+# Dcoker engine install
 
 ```php
 for pkg in docker.io docker-doc docker-compose docker-compose-v2 podman-docker containerd runc; do sudo apt-get remove $pkg; done
