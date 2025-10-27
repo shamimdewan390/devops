@@ -4,8 +4,14 @@
 https://medium.com/@arshakilmahmud/how-i-automated-hosting-my-gtm-server-using-a-simple-bash-script-809f9ff9e0eb
 ```
 
-## Server - Tag ID-> (login google rag manager -> create accout (select server))
-aWQ9R1RNLVRHNkpUNTZCJmVudj0xJmF1dGg9WDJXZEw0YmxZbm9IdHBnX3RPTmtIQQ==
+## Server - Tag ID-> (login google rag manager -> create accout (select server) -> Manually provision tagging server, here you got a key like below)
+ 1. login google rag manager
+ 2. create accout (select server)
+ 3. Manually provision tagging server
+ 4. copy key
+
+    
+aWQ9R1RNLVRHNkpUNTZCJmVudj0xJmF1dGg9WDJXZEYmxZbm9IdHBnX3RPTmtIQQ==
 
 
 # Dcoker engine install
